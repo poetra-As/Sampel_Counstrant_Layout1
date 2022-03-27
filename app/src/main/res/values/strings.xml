@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sampel Counstrant Layout</string>
+    <string name="app_name">Todo APP</string>
     <string name="var1">ini pesan</string>
     <string name="tLoginAkun">LOGIN</string>
     <string name="tData">Data Anda</string>
@@ -17,4 +17,5 @@
     <string name="erepass">Masukan Password Kembali</string>
     <string name="ealamat">Masukan Alamat</string>
     <string name="fabsimpan">Klik</string>
+    <string name="tTulis">welcome</string>
 </resources>
